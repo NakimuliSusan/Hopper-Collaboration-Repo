@@ -1,4 +1,4 @@
-var x = 7
-var y = 8
+var x = 5
+var y = 6
 
 console.log(x+y)
